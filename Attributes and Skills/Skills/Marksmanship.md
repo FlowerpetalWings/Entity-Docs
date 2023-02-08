@@ -1,0 +1,1 @@
+Bows, Crossbows, Rifles, Seige, Thrown Weapons

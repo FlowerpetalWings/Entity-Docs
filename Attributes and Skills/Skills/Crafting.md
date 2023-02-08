@@ -1,0 +1,1 @@
+Blacksmithing, Tailoring, Leatherworking, Woodworking, Jewelcrafting

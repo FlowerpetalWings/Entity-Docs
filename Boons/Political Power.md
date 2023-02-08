@@ -1,0 +1,3 @@
+Whether by climbing a political ladder, through nepotism, or by happenstance, you have climbed almost to the very top of one of the main factions. You start at #WIP TheHighest rank in the faction of your choice and get all of the benefits of the position. The position might entail attending occasional meetings to make choices for the faction, in which case, not attending could cause you to lose one #WIP rank in that faction, but never more than that. If the rank has requirements, you do not need to meet the requirements. For example, instead of needing to own stocks or be an employee to be highly ranked in one of the #WIP FiveBigCompanies, you could be a highly trusted mage that has earned their favour, or been awarded a position through nepotism alone.
+
+#boon #factions

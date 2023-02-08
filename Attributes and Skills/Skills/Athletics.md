@@ -1,0 +1,1 @@
+Jumping, Sprinting, Swimming, Climbing, Lifting

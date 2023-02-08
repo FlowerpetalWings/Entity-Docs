@@ -1,0 +1,1 @@
+Evasion, Shield Block, Parry, Redirection

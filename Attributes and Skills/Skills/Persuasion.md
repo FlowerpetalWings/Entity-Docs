@@ -1,0 +1,1 @@
+Bribery, Flirting, Haggling, Diplomacy

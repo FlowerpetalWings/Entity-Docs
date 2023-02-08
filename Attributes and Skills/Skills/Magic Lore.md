@@ -1,0 +1,1 @@
+Runes, Druidism, Mentalism, Mages, Elderspells, Void Realms, Spirit Realm

@@ -1,0 +1,3 @@
+From the long gone mountain forges of Atluun to the looms of Patsu, and even to the few remnants of long extinct space-faring civilizations, some items can literally no longer be made. Choose one of the [[Sublime Materials]] and any #GearClass (ie boots, or bow). You gain that item, except it has all the abilities of each common and uncommon item type within that gear class, including each of their [[Triggers]].
+
+#boon #equipment

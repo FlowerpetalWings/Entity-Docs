@@ -1,0 +1,1 @@
+While wielding a shield and a short blade, you may spend an additional tick 

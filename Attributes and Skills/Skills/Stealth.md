@@ -1,0 +1,1 @@
+Foliage, Open Space, Urban, Blend In
