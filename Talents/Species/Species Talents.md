@@ -1,0 +1,1 @@
+Some members of a given species have found ways to exploit its natural advantages and take things to the next level.

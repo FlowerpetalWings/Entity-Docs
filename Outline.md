@@ -25,8 +25,8 @@
 10. No Archetype
 ## Species
 1. Human
-2. WIP Metaldwarf
-3. Sprite
+2. [[WIP Metaldwarves]]
+3. [[Pixies]]
 4. Runeforged
 ## Boons
 1. [[Fame]]
@@ -68,12 +68,14 @@
 18. [[Persuasion]]
 ## Talents
 1. Magical Talents
-	1. Runic Talents
-	2. Druidic Talents
-	3. Mental Talents
-2. Martial Talents
+	1. [[Life Talents]]
+	2. [[Mental Talents]]
+	3. [[Runic Talents]]
+2. [[Martial Talents]]
+3. [[Skill Talents]]
+4. [[Species Talents]]
 ## Equipment
 1. Overview
-2. Price Model
+2. Price Model 
 3. Materials
-4. Item Types
+4. Gear Classes
