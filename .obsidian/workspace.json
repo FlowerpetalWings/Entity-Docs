@@ -18,26 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "48939bb54ffce4c7",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ac609d533f5fd184",
+            "id": "562ae19b78c79fde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species/Pixies.md",
+                "file": "Outline.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea3cdcf4394cc017",
+  "active": "562ae19b78c79fde",
   "lastOpenFiles": [
+    "README.md",
+    "Outline.md",
     "Species/WIP Metaldwarves.md",
     "Species/Pixies.md",
     "Attributes and Skills/Skills/Defense.md",
-    "Outline.md",
     "Talents/Species/Species Talents.md",
     "Talents/Runic/Runic Talents.md",
     "Talents/Mental/Mental Talents.md",
     "Talents/Martial/Martial Talents.md",
-    "Talents/Life/Life Talents.md",
-    "Talents/Martial/Shield and Short Blade.md"
+    "Talents/Life/Life Talents.md"
   ]
 }
