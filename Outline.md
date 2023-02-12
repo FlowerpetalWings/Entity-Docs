@@ -4,17 +4,11 @@ The following is the order you are encourage to read these documents in:
 1. System Goals #WIP
 2. World Overview #WIP
 3. Game Mechanisms
-	1. [[Dice Rolling]]
-		1. [[Abilities and Triggers]]
-		2. [[Situational Advantages]]
-		3. [[Skill Specialisations]]
+	1. [[Rolling Dice]]
 	2. [[Spellcasting]]
-		1. [[Mana]] and [[Mana Bursts]]
-		2. [[Spontaneous Spells]]
-	3. [[Conflicts]]
-		1. [[Ticks]]
-		2. [[Conflict Actions]]
-		3. [[Stamina]] and [[Wounds]]
+	3. [[Zones]]
+	4. [[Conflicts]]
+	5. [[Wounds]]
 ## Character Creation
 1. Choose Archetype
 2. Choose Species
@@ -51,15 +45,15 @@ The following is the order you are encourage to read these documents in:
 ## Background
 1. Overview
 ## Attributes
-1. Constitution
-2. Strength
-3. Agility
+1. Strength
+2. Agility
+3. Reflex
 4. Intellect
-6. Wit
-7. Charisma
-8. Resistence
-9. Force
-10. Control
+5. Wit
+6. Charisma
+7. Focus
+8. Force
+9. Control
 ## Skills
 1. [[Magic Lore]]
 2. [[Crafting]]
