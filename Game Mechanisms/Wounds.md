@@ -1,10 +1,9 @@
 #WIP VERY EARLY bullet phase
 
-
 ## Proposed Approach:
 
-1. Roll to hit: Need two successes by default
-2. Fatigue Phase: Additional successes increase fatigue, target's Armour decreases fatigue. If the target is defending, their successes further reduce fatigue. Fatigue points reduce target's Stamina. If any fatigue isn't successfully soaked, go to wound phase
+1. Roll for attack: Need two successes by default
+2. Fatigue Phase: Your attack would hit, but the target can still avoid taking a wound. You will remove stamina by dealing fatigue to the target. Additional successes increase fatigue, target's Armour decreases fatigue. If the target is defending, their successes further reduce fatigue. If any fatigue isn't successfully soaked, go to wound phase
 3. Wound Phase: There are two kinds of wounds
 	1. Ability created wounds (done through talents or weapons that look for special dice results) create wounds the effects of which are specified in the relevant talent or weapon
 	2. For wounds coming from unsoaked fatigue, determine the deadliness of the instigating talent or weapon, and look at the Wound Severity table to determine the effect
@@ -26,7 +25,7 @@ Genesys Approach:
 - When making the attack roll, there are positive and negative dice. More successes than fails means it hits, and if you get enough net opportunity dice results, you may trigger your weapons' critical rating and inflict a critical injury.
 - Critical Injuries involve an old-school style d100 table, which can be modified by some talents
 - Each time a critical injury happens, it has some minor setback but then also gives a +10 for the severity of future crits. This means the first crit can't be worse than a temporarily impaired limb, but after 5 or so crits, it's possible to straight up die, and after more, it becomes inevitable
-- Death is difficult because either the character must take 2x HP in wounds or get enough crits. Much more likely the character will just go unconscious and be temporarily incapascitated. Fair enough
+- Death is difficult because either the character must take 2x HP in wounds or get enough crits. Much more likely the character will just go unconscious and be temporarily incapacitated. Fair enough
 - Strain also exists but is separate
 - Healing naturally is brutally slow. Each day heals one wound (ouch!) and each week gives a chance of healing one crit. A medically trained character can provide muuuuch higher wound recovery, but can only add one extra chance at healing a crit per week.
 

@@ -1,1 +1,6 @@
-{}
+{
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB"
+  ]
+}

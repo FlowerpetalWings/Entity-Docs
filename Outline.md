@@ -6,9 +6,9 @@ The following is the order you are encourage to read these documents in:
 3. Game Mechanisms
 	1. [[Rolling Dice]]
 	2. [[Spellcasting]]
-	3. [[Zones]]
-	4. [[Conflicts]]
-	5. [[Wounds]]
+	3. [[Conflicts]]
+	4. [[Wounds]]
+	5. [[Zones]]
 ## Character Creation
 1. Choose Archetype
 2. Choose Species
