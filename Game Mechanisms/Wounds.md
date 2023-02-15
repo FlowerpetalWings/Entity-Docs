@@ -7,7 +7,7 @@
 3. Wound Phase: There are two kinds of wounds
 	1. Ability created wounds (done through talents or weapons that look for special dice results) create wounds the effects of which are specified in the relevant talent or weapon
 	2. For wounds coming from unsoaked fatigue, determine the deadliness of the instigating talent or weapon, and look at the Wound Severity table to determine the effect
-4. Healing: Once a day, as an action, heal #WIP NUMBER of stamina. You may do this two more times this day, but the second time takes 10 minutes and the third time takes a night's sleep.
+4. Healing: Once a day, as an action, you may make a Strength + Endurance (Fatigue) roll and restore stamina equal to the number of successes. You may do this two more times this day, but the second time takes 10 minutes and the third time takes a night's sleep.
 
 ## Other Approaches
 

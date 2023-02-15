@@ -1,1 +1,1 @@
-Hunger and Thirst, Elements, Exhaustion, Hold Breath, Disease
+Hunger and Thirst, Elements, Fatigue, Hold Breath, Disease

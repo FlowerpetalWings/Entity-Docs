@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Mechanisms/Conflicts.md",
+                "file": "Game Mechanisms/Wounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Mechanisms/Conflicts.md",
+                "file": "Game Mechanisms/Wounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Mechanisms/Conflicts.md"
+                "file": "Game Mechanisms/Wounds.md"
               }
             }
           }
@@ -207,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "091041c4d9120a95",
+  "active": "f4da299dfc8c94c3",
   "lastOpenFiles": [
-    "Game Mechanisms/Rolling Dice.md",
+    "Game Mechanisms/Conflicts.md",
     "Outline.md",
     "Game Mechanisms/Wounds.md",
+    "Attributes and Skills/Skills/Endurance.md",
+    "Game Mechanisms/Rolling Dice.md",
     "Game Mechanisms/Zones.md",
-    "Game Mechanisms/Conflicts.md",
     "Game Mechanisms/Spellcasting.md",
     "Species/Pixies.md",
     "README.md",
-    "Game Mechanisms/Actions/Untitled.canvas",
-    "Species/WIP Metaldwarves.md"
+    "Game Mechanisms/Actions/Untitled.canvas"
   ]
 }
