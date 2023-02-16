@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "938c490e28ab759a",
+            "id": "0a1c6eb010841244",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "091041c4d9120a95",
+            "id": "607795c2c6b07a4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Mechanisms/Conflicts.md",
+                "file": "Levels and Experience.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1632e622f2c690d7",
+            "id": "7f27b7e45d62627b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Mechanisms/Conditions.md",
+                "file": "Game Mechanisms/Spellcasting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Mechanisms/Conditions.md",
+                "file": "Levels and Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Mechanisms/Conditions.md",
+                "file": "Levels and Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Mechanisms/Conditions.md"
+                "file": "Levels and Experience.md"
               }
             }
           }
@@ -171,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1632e622f2c690d7",
+  "active": "607795c2c6b07a4e",
   "lastOpenFiles": [
-    "Game Mechanisms/Conflicts.md",
+    "Game Mechanisms/Spellcasting.md",
+    "Levels and Experience.md",
     "Outline.md",
-    "Game Mechanisms/Conditions.md",
-    "Condtions.md",
-    "Attributes and Skills/Skills/Acrobatics.md",
-    "Attributes and Skills/Skills/Animal Handling.md",
-    "Game Mechanisms/Projects.md",
-    "Game Mechanisms/Wounds.md",
-    "Game Mechanisms/Zones.md",
-    "Attributes and Skills/Skills/Endurance.md"
+    "Boons/Extraordinary Skill.md",
+    "Boons/Political Power.md",
+    "Boons/Mark of the Chosen.md",
+    "Boons/Hidden Knowledge.md",
+    "README.md",
+    "Game Mechanisms/Rolling Dice.md",
+    "Boons/Fame.md"
   ]
 }

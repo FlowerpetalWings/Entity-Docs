@@ -6,11 +6,12 @@ The following is the order you are encourage to read these documents in:
 3. Game Mechanisms
 	1. [[Rolling Dice]]
 	2. [[Spellcasting]]
-	3. [[Conflicts]]
-	4. [[Wounds]]
-	5. [[Zones]]
-	6. [[Conditions]]
-	7. [[Projects]]
+	3. [[Levels and Experience]]
+	4. [[Conflicts]]
+	5. [[Wounds]]
+	6. [[Zones]]
+	7. [[Conditions]]
+	8. [[Projects]]
 ## Character Creation
 1. Choose Archetype
 2. Choose Species
@@ -25,7 +26,7 @@ The following is the order you are encourage to read these documents in:
 2. Arcanist
 3. WIP Spellblade
 4. WIP Shadow Assassin
-5. WIP Voidwalker
+5. Voidweaver
 6. Illusionist
 7. Shaman
 8. Druid
@@ -37,13 +38,16 @@ The following is the order you are encourage to read these documents in:
 3. [[Pixies]]
 4. Runeforged
 ## Boons
-1. [[Fame]]
-2. [[Political Power]]
-3. [[Priceless Heirloom]]
-4. [[Runic Implants]]
-5. [[Second Awakening]]
-6. [[Supernatural Ally]]
-7. [[Wealth]]
+1. [[Extraordinary Skill]]
+2. [[Fame]]
+3. [[Hidden Knowledge]]
+4. [[Mark of the Chosen]]
+5. [[Political Power]]
+6. [[Priceless Heirloom]]
+7. [[Runic Implants]]
+8. [[Second Awakening]]
+9. [[Supernatural Ally]]
+10. [[Wealth]]
 ## Background
 1. Overview
 ## Attributes
