@@ -9,6 +9,8 @@ The following is the order you are encourage to read these documents in:
 	3. [[Conflicts]]
 	4. [[Wounds]]
 	5. [[Zones]]
+	6. [[Conditions]]
+	7. [[Projects]]
 ## Character Creation
 1. Choose Archetype
 2. Choose Species

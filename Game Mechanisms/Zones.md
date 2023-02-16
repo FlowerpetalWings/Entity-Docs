@@ -13,13 +13,14 @@
 	- Dice abilities: Like talents, some zones can provide dice abilities. These usually happen on 1 dice results, like most items. #WIP give example. Should be easy, I just ran out of motivation
 	- Actions: Occasionally, zones will have objects or features that can be interacted with. A lever that opens or closes a portcullis, for example. These actions count as using an item.
 
-## Engagement
+## Adjacency
 
-- While zones are used to simplify where your character is and reduce friction within conflicts, in order to determine close proximity, we use engagement.
-- Narratively, engagement represents objects or Entities which are close enough to each other that they can make physical contact.
-- In order to use an item on your zone, make a melee attack against an enemy Entity, or help out a friendly Entity in a way that requires physical contact, you must first become engaged with that item or entity. See "Move - Incidental Action" for how this is usually done.
-- Engaging with an item or Entity that another item or Entity is also engaged with makes you engaged with all of these items or Entities
-- Engaging with an item or Entity makes you disengaged with whichever items or Entities you were previously engaged with
+- While zones are used to simplify where your character is and reduce friction within conflicts, in order to determine close proximity, we use adjacency.
+- Narratively, adjacency represents objects or Entities which are close enough to each other that they can make physical contact.
+- In order to use an item on your zone, make an attack against an enemy Entity, or help out a friendly Entity in a way that requires physical contact, you must first become adjacent to that item or entity. See "Move - Incidental Action" for how this is usually done.
+- Being adjacent to an item or Entity that another item or Entity is also adjacent to makes you adjacent to all of these items or Entities
+- When you are not adjacent to an item or entity, you are separate from that item or entity. You might still be in the same zone
+- Becoming adjacent to an item or Entity makes you separate to whichever items or Entities you were previously adjacent to
 
 ## Traps
 
