@@ -7,17 +7,17 @@
 - Zones have a size number associated with them, which represents how many ticks (around 1 second each) it takes to enter or leave the zone. When moving from one zone to another, the sizes of both zones are taken into account to determine how much time it takes.
 - Zone sizes range from one to three, but particularly large zones can be size four. Avoid making zones larger than that, and if a zone ever gets much larger than around 100 squared metres, try and split it up, ideally with narratively distinct zones! Terrain variety makes conflicts much more interesting
 - Remember that for a character to move zones, that has to be all they are doing at a given time! Even if it doesn't make strict logical sense for a football field sized forest clearing to be entered in four seconds and then fully crossed in four more seconds, that still will *feel* like a very long time in the heat of combat.
-- Some Zones have special mechanical benefits. These mechanical benefits go beyond conflicts and can apply outside of them. They can come in various ways:
-	- Skill advantages: A zone can give an advantage a given skill. Forest might make stealth easier, castle walls might make marksmanship more effective, a library might make politics checks more fruitful. These benefits show the strength of the advantage, what skill it affects, and if there are any specialisations that rolls that take advantage of this benefit must always have. For example, a map room might give an advantage to Politics (Geography) but not to Politics (Religion).
+- Some Zones have special mechanical benefits. These mechanical benefits go beyond conflicts and can apply outside of them. They can come in various forms:
+	- Skill advantages: A zone can give an advantage to a given skill. Forests might make stealth easier, castle walls might make marksmanship more effective, or a library might make politics checks more fruitful. These benefits list the strength of the advantage, what skill it affects, and if there are any specialisations that rolls that take advantage of this benefit must always have. For example, a map room might give an advantage to Politics (Geography) but not to Politics (Religion).
 	- Triggers: Some zones have special abilities that trigger whenever an event happens. Being on a precarious rope bridge might require you to make a successful Agility + Athletics (Balance) check or fall to the waters below, for example.
-	- Dice abilities: Like talents, some zones can provide dice abilities. These usually happen on 1 dice results, like most items.
-	- Actions: Occasionally, zones will have objects or features that can be interacted with. A lever that opens or closes a portcullis, for example.
+	- Dice abilities: Like talents, some zones can provide dice abilities. These usually happen on 1 dice results, like most items. #WIP give example. Should be easy, I just ran out of motivation
+	- Actions: Occasionally, zones will have objects or features that can be interacted with. A lever that opens or closes a portcullis, for example. These actions count as using an item.
 
 ## Engagement
 
 - While zones are used to simplify where your character is and reduce friction within conflicts, in order to determine close proximity, we use engagement.
 - Narratively, engagement represents objects or Entities which are close enough to each other that they can make physical contact.
-- In order to use an item on your zone, make an attack against an enemy Entity, or help out a friendly Entity in a way that requires physical contact, you must first become engaged with that item or entity. See "Move - Incidental Action" for how this is usually done.
+- In order to use an item on your zone, make a melee attack against an enemy Entity, or help out a friendly Entity in a way that requires physical contact, you must first become engaged with that item or entity. See "Move - Incidental Action" for how this is usually done.
 - Engaging with an item or Entity that another item or Entity is also engaged with makes you engaged with all of these items or Entities
 - Engaging with an item or Entity makes you disengaged with whichever items or Entities you were previously engaged with
 
