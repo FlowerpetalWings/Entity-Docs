@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "607795c2c6b07a4e",
+            "id": "fecf801170f1083b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Levels and Experience.md",
+                "file": "Game Mechanisms/Rolling Dice.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6eb7b2f3a2532828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Mechanisms/Levels and Experience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Levels and Experience.md",
+                "file": "Game Mechanisms/Levels and Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Levels and Experience.md",
+                "file": "Game Mechanisms/Levels and Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Levels and Experience.md"
+                "file": "Game Mechanisms/Levels and Experience.md"
               }
             }
           }
@@ -171,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "607795c2c6b07a4e",
+  "active": "6eb7b2f3a2532828",
   "lastOpenFiles": [
-    "Game Mechanisms/Spellcasting.md",
-    "Levels and Experience.md",
+    "Game Mechanisms/Rolling Dice.md",
     "Outline.md",
+    "Game Mechanisms/Levels and Experience.md",
+    "Game Mechanisms/Spellcasting.md",
+    "Talents/Life/Talent Tree.canvas",
     "Boons/Extraordinary Skill.md",
     "Boons/Political Power.md",
     "Boons/Mark of the Chosen.md",
     "Boons/Hidden Knowledge.md",
-    "README.md",
-    "Game Mechanisms/Rolling Dice.md",
-    "Boons/Fame.md"
+    "README.md"
   ]
 }
