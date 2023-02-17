@@ -1,0 +1,3 @@
+Your talents at a skill are beyond what practically any living Entity possesses. Choose a skill other than Brawl, Marksmanship, Weaponry or Defence. You always count as having one higher Mind level for the purpose of levelling up that skill, and you begin the game with a score of 6 without the need to purchase any points on it. You also begin the game with two specialisations of your choice for that skill.
+
+#boon 
