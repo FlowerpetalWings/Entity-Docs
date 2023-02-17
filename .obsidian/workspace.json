@@ -13,38 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outline.md",
+                "file": "Talents/Runic/Runic Talents.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fecf801170f1083b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Mechanisms/Rolling Dice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f27b7e45d62627b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Mechanisms/Spellcasting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eb7b2f3a2532828",
+            "id": "84297eb7f4cfdf48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97910384d1fbbae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Species/Pixies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Mechanisms/Levels and Experience.md",
+                "file": "Talents/Runic/Runic Talents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Mechanisms/Levels and Experience.md",
+                "file": "Talents/Runic/Runic Talents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Mechanisms/Levels and Experience.md"
+                "file": "Talents/Runic/Runic Talents.md"
               }
             }
           }
@@ -183,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eb7b2f3a2532828",
+  "active": "0a1c6eb010841244",
   "lastOpenFiles": [
-    "Game Mechanisms/Rolling Dice.md",
-    "Outline.md",
+    "Talents/Skill/Tier 3 Skill Talents.md",
     "Game Mechanisms/Levels and Experience.md",
+    "Talents/Runic/Runic Talents.md",
+    "Species/Pixies.md",
+    "Outline.md",
+    "Game Mechanisms/Rolling Dice.md",
     "Game Mechanisms/Spellcasting.md",
     "Talents/Life/Talent Tree.canvas",
     "Boons/Extraordinary Skill.md",
-    "Boons/Political Power.md",
-    "Boons/Mark of the Chosen.md",
-    "Boons/Hidden Knowledge.md",
-    "README.md"
+    "Boons/Political Power.md"
   ]
 }

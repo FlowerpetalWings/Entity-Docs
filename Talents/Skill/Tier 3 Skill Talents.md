@@ -1,0 +1,1 @@
+- **Hyperfixation** (Mind 3) (Requires 5 in at least one skill) - Choose one skill you have a 5 on, and increase that skill to 6. Instead of taking a second specialisation like normal, instead mark your current specialisation for that skill as a Hyperfixation. When making rolls using that specialisation, you may re-roll dice twice instead of once.

@@ -1,0 +1,18 @@
+
+- Rune tap - understand rune and as a project learn a new one of a type you've unlocked through a project. Each time you do so, spend half of the cost of the talent that gave you access to that rune, rounded down
+	- Basic action runes (Ignite, Push, Pull, Shock, Illuminate, Preserve)
+	- Basic property runes (Strength, Hardness, Weight, Temperature, Size, Mass)
+		- Material runes (Water, Rock, Metal, Air, Wood)
+		- Advanced property runes (Shape, Composition, Colour, Texture)
+		- Triggering property runes (Proximity (to caster), Pressure, Contact (to material))
+			- Advanced action runes (Increase (basic property), Decrease (basic property), Alter (advanced property))
+				- True Rune: Items
+					- True Rune: Entities
+	- Improvised Arcana - you learn how to cast spells using runes spontaneously, but at a much less efficient rate.
+		- Improvised Arcana: material efficiency- you learn how to make spells more efficient by specifying what they should affect.
+		- Improvised Arcana: unlearned rune - maximum mana spend equal to Spirit level
+	- Incantation - you learn how to speak runes as words in their original language, and can use this to string together sentences that etch themselves into your mind while you're awake, allowing you to repeat them to cast spells highly efficiently
+	- Imbue Basic Property - You learn how to carve runes into items and use an extended spell to increase or decrease a basic property in an item.
+		- Basic Enchantment - Allows you to imbue a triggering property rune which allows you to spontaneously cast an improvised arcana spell based on the other runes on the item.
+			- Power Sources - Allows you to provide a power source to an Enchantment, making it so any spells it might trigger or create will have their energy drawn from the power source.
+			- Logic Runes - You learn how some runes interact with other runes in order to create a style of runic code. This allows you to write runic instructions that can constantly check for properties and adjust the degree of their effect based on them automatically

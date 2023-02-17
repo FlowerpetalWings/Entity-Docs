@@ -3,7 +3,7 @@
 
 Pixies release a fine golden pollen off of their flower-petal wings, which shrinks the size and mass of objects it permeates. By passively releasing a small amount of it into the air around their wings, Pixies can fly even while carrying relatively heavy items. By spending additional mana, a Pixie can shrink an item normally meant to be used by a larger species.
 
- - **Pixie Dust** (Spirit) (Flight: passive. Shrink: 1 mana per 5kg reduced): Shrink an item's size and weight while it's in contact with your pollen. When used passively on the air, it allows flight. During extreme wind conditions additional mana may be required, in addition to an [[Athletics]] check. Pollen remains active for some time after mana has stopped being directed towards it. For every second you've fed mana into this essence, the pollen shrinks the item for two seconds.
+ - **Pixie Dust** (Spirit 0) (Flight: passive. Shrink: 1 mana per 5kg reduced): Shrink an item's size and weight while it's in contact with your pollen. When used passively on the air, it allows flight. During extreme wind conditions additional mana may be required, in addition to an [[Athletics]] check. Pollen remains active for some time after mana has stopped being directed towards it. For every second you've fed mana into this essence, the pollen shrinks the item for two seconds.
 	 - **{4} Can't catch me! -** When making an [[Agility]] based check: You may engage or disengage with an Entity or item in your zone. This ability cannot trigger other abilities.
 	 - **{4}{4}{4} Did you need that? -** When making a melee attack check, or having one done against you: After the effects of the triggering action, you may use your essence spontaneously to shrink an item your opponent is holding.
 
