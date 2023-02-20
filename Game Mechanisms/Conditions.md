@@ -2,7 +2,7 @@
 
 - Prone #WIP find drawbacks. Can just spend two ticks to stand up
 - On Fire #WIP should this just, cause wounds??
-- Bleeding - Incoming wounds have increased severity
-- ??? - Incoming fatigue is increased
+- Wounded - Incoming wounds have +1 severity
+- Bleeding - Incoming fatigue is increased
 - Staggered - Attacking and moving takes an additional tick
 - Debilitated - You get a disadvantage to one of your attributes. The reason this is one condition is maybe there are things that can clear this, so it wouldn't 

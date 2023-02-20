@@ -13,37 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talents/Runic/Runic Talents.md",
+                "file": "Outline.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "84297eb7f4cfdf48",
+            "id": "5fd854356bd21094",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Mechanisms/Levels and Experience.md",
+                "file": "Game Mechanisms/Wounds.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97910384d1fbbae8",
+            "id": "31f505e1390320df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species/Pixies.md",
+                "file": "Game Mechanisms/Conditions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talents/Runic/Runic Talents.md",
+                "file": "Game Mechanisms/Wounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talents/Runic/Runic Talents.md",
+                "file": "Game Mechanisms/Wounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talents/Runic/Runic Talents.md"
+                "file": "Game Mechanisms/Wounds.md"
               }
             }
           }
@@ -170,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a1c6eb010841244",
+  "active": "5fd854356bd21094",
   "lastOpenFiles": [
-    "Talents/Skill/Tier 3 Skill Talents.md",
-    "Game Mechanisms/Levels and Experience.md",
-    "Talents/Runic/Runic Talents.md",
-    "Species/Pixies.md",
+    "Game Mechanisms/Conditions.md",
     "Outline.md",
-    "Game Mechanisms/Rolling Dice.md",
+    "Game Mechanisms/Wounds.md",
+    "Game Mechanisms/Levels and Experience.md",
+    "Game Mechanisms/Conflicts.md",
+    "Archetypes/Arcanists.md",
+    "Talents/Runic/Runic Talents.md",
     "Game Mechanisms/Spellcasting.md",
-    "Talents/Life/Talent Tree.canvas",
-    "Boons/Extraordinary Skill.md",
-    "Boons/Political Power.md"
+    "Levels and Experience.md",
+    "Boons/Extraordinary Skill.md"
   ]
 }

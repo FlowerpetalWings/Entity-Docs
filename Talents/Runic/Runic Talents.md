@@ -3,12 +3,13 @@
 	- Basic action runes (Ignite, Push, Pull, Shock, Illuminate, Preserve)
 	- Basic property runes (Strength, Hardness, Weight, Temperature, Size, Mass)
 		- Material runes (Water, Rock, Metal, Air, Wood)
-		- Advanced property runes (Shape, Composition, Colour, Texture)
+		- Advanced property runes (Shape, Composition, Colour, Texture, Flammability)
 		- Triggering property runes (Proximity (to caster), Pressure, Contact (to material))
 			- Advanced action runes (Increase (basic property), Decrease (basic property), Alter (advanced property))
-				- True Rune: Items
-					- True Rune: Entities
-	- Improvised Arcana - you learn how to cast spells using runes spontaneously, but at a much less efficient rate.
+				- Rune Creation
+					- True Rune: Items
+						- True Rune: Entities
+	- Improvised Arcana - you learn how to cast spells using runes freely, but at a much less efficient rate.
 		- Improvised Arcana: material efficiency- you learn how to make spells more efficient by specifying what they should affect.
 		- Improvised Arcana: unlearned rune - maximum mana spend equal to Spirit level
 	- Incantation - you learn how to speak runes as words in their original language, and can use this to string together sentences that etch themselves into your mind while you're awake, allowing you to repeat them to cast spells highly efficiently

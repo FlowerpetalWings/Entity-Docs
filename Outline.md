@@ -22,15 +22,12 @@ The following is the order you are encourage to read these documents in:
 	2. Skills
 	3. Talents
 ## Archetypes
+
+The eventual book will have 9, for the first playtest four are offered
 1. Enchanter
-2. Arcanist
-3. WIP Spellblade
-4. WIP Shadow Assassin
-5. Voidweaver
-6. Illusionist
-7. Shaman
+2. [[Arcanist]]
+4. Metamorph
 8. Druid
-9. Tamer
 10. No Archetype
 ## Species
 1. Human
